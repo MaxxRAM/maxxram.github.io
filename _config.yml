@@ -23,9 +23,9 @@ repository               : "maxxram.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Maxximus Ramsaroop"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "I study the behavioral ecology of freshwater fish with a focus on anthropogenic influences."
   location         : "Austin, Texas"
   employer         : "The University of Texas at Austin"
