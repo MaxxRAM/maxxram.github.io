@@ -23,7 +23,7 @@ repository               : "maxxram.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Maxximus Ramsaroop"
   pronouns         : "he/him"  
   bio              : "I study the behavioral ecology of freshwater fish with a focus on anthropogenic influences."
@@ -37,7 +37,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=vwFm5DwAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
-  impactstory      : # URL
+  inaturalist      : "https://www.inaturalist.org/people/maxximusramsaroop"
   orcid            : "https://orcid.org/0009-0007-7727-2361"
   semantic         : # URL
   ssrn             : # URL
