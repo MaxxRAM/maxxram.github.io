@@ -15,7 +15,7 @@ When conducting research I follow the LTOS research philosophy <- (make into a l
 
 Science education/communication is something I feel very passionately about. If you have any inquiries or coments about my blogpost, youtube channel, or lectures, please contact me using one of my contacts on the bar to the left. 
 
-![Gambusia affinis](/images/g.affinis.jpeg)
+![Gambusia affinis](/images/g.affinis.jpg)
 
 For Students
 ------------
